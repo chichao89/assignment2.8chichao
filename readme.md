@@ -1,0 +1,1 @@
+zip ../version2python.zip -r * .[^.]*
