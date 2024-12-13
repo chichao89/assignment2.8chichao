@@ -1,8 +1,8 @@
-###Command for creating a new zip archive file
+### Command for creating a new zip archive file
 
 zip ../version2python.zip -r * .[^.]*
 
-###Summary:
+### Summary:
 This creates a ZIP file named version2python.zip in the parent directory, including:
 
 All files and subdirectories (recursively) in the current directory.
